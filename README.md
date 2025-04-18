@@ -14,7 +14,7 @@ A modular Python-based virtual pet simulator built with Object-Oriented Programm
 - **Responsive pet behaviors** with conditional logic
 
 ## 📦 Project Structure
-digital_pet/
+__pyche__/
 ├── main.py # Program entry point
 ├── game.py # Game interface and flow control
 ├── pet.py # Main Pet class
