@@ -18,5 +18,5 @@ A Python-based virtual pet simulator that lets you care for your own digital com
 
 1. Clone this repository or download the `digital_pet.py` file
    ```bash
-   git clone https://github.com/yourusername/digital-pet.git
+   git clone https://github.com/Yobra28/python_oop_challenge.git
    cd digital-pet
